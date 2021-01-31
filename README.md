@@ -11,6 +11,8 @@ The tutorial will guide you to create or log in to an SAP Cloud Platform trial a
 # Download and Installation
 Installation instructions start in the following tutorial: [Help Thomas Get Started with SAP HANA](https://developers.sap.com/tutorials/hana-trial-advanced-analytics.html).
 
+Raz Korn added a table, room, and a calculation view on top, based on SAP HANA Academy [video](https://www.youtube.com/watch?v=cZUBtACMZBE&list=PLkzo92owKnVzONfsNdQNmpPQvUT54UUAL&index=8).
+
 
 # License
 Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE file](LICENSES/Apache-2.0.txt).
